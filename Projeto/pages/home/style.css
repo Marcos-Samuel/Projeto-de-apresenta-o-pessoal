@@ -1,0 +1,208 @@
+@import url(../../css/main.css);
+@import url(../../css/header.css);
+@import url(../../css/footer.css);
+@import url(../../css/styles.css);
+
+.img-manage {
+    position: relative;
+}
+
+.home-page-img {
+    width: 1110px;
+    margin-top: 85px;
+    object-fit: cover;
+}
+
+.box {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 41%;
+    bottom: 0%;
+
+    height: 357px;
+    width: 445px;
+
+    background-color: #FAFAFA;
+}
+
+
+.texto {
+    position: relative;
+
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    height: 357px;
+    width: 445px;
+}
+
+.texto h1 {
+    position: absolute;
+
+    top: -44px;
+
+    font-family: 'Ibarra Real Nova';
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    letter-spacing: -0.446429px;
+    color: #33323D;
+    height: 200px;
+    width: 390px;
+    margin: 24px;
+
+}
+
+.button-top:hover .efeito {
+    background-color: rgba(95, 180, 162, 0.6);
+}
+
+.link-top {
+    height: 49px;
+    width: 152px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: #203A4C;
+    margin-left: 24px;
+    position: absolute;
+    left: 30px;
+}
+
+.img-top {
+    padding: 17px;
+    justify-content: center;
+    background: #1b3141;
+    align-items: center;
+    left: 0%;
+    display: flex;
+
+}
+
+.button-top {
+    height: 48px;
+    width: 200px;
+
+    display: flex;
+    align-items: center;
+    position: absolute;
+
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+}
+
+.button-top:hover {
+    cursor: pointer;
+}
+
+.button-top a {
+    height: 14px;
+    left: 24%;
+    right: 0%;
+    top: calc(50% - 14px/2);
+    padding: 2px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.down-arrows {
+    width: 20px;
+    height: 15px;
+}
+
+.title {
+    margin-top: 46px;
+}
+
+.title {
+    display: flex;
+    width: 350px;
+    height: 42px;
+    margin-bottom: 20px;
+}
+
+.sobre {
+    display: flex;
+    height: 360px;
+    width: 430px;
+}
+
+.button-link {
+    margin: 55px 0;
+    height: 48px;
+    width: 168px;
+
+    border: 1px solid #33323D;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    margin-top: 80px;
+    justify-content: space-between;
+}
+
+.menu-img {
+    width: 50%;
+    display: flex;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.button-centalizado {
+    display: flex;
+    justify-content: center;
+}
+
+.interressado {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 108px;
+    width: 1100px;
+}
+
+.interressado h2 {
+    height: 84px;
+    width: 366px;
+}
+
+.interressado p {
+    display: flex;
+
+    height: 84px;
+    min-width: 379px;
+    letter-spacing: -0.357143px;
+}
+
+.interressado a {
+
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

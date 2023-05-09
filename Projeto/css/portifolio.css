@@ -1,0 +1,196 @@
+@import url(../css/main.css);
+@import url(../css/header.css);
+@import url(../css/footer.css);
+@import url(../css/styles.css);
+
+
+.img-projeto {
+    display: flex;
+    margin: 0 auto;
+    padding-bottom: 94px;
+    width: 1110px;
+}
+
+.img-projeto img {
+    height: 500px;
+    margin-top: 85px;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+.container .sobre {
+    height: 120px;
+    width: 350px;
+
+    margin-top: 29px;
+    margin-bottom: 53px;
+}
+
+.container .link-green {
+    height: 30px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    color: #5FB4A2;
+
+    margin-bottom: 16px;
+}
+
+.container-1 {
+    display: flex;
+    flex-direction: column;
+
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+
+    width: 50%;
+    height: 50%;
+
+    margin-right: 120px;
+
+}
+
+.title {
+    margin-top: 46px;
+}
+
+.button-link {
+
+    height: 48px;
+    width: 168px;
+
+    border: 1px solid #33323D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    margin-bottom: 33px;
+}
+
+.container-2 {
+    width: 50%;
+    display: flex;
+
+    justify-content: center;
+    flex-direction: column;
+}
+
+.projeto {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    height: 42px;
+    letter-spacing: -0.285714px;
+    color: #33323D;
+
+    margin-bottom: 40px;
+}
+
+.texto-2 {
+    height: 180px;
+    margin-bottom: 50px;
+}
+
+.container-2 h3 {
+    margin-bottom: 28px;
+}
+
+.container-2 img {
+    width: 533px;
+    padding-top: 32px;
+    border-radius: 0px;
+}
+
+.menu-nav {
+    width: 1110px;
+    display: flex;
+    margin-top: 64px;
+    height: 130px;
+
+    justify-content: space-between;
+
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.menu-nav img {
+    display: flex;
+    align-items: center;
+}
+
+.menu-nav .back img {
+    margin-right: 32px;
+}
+
+.menu-nav .next img {
+    margin-left: 32px;
+}
+
+.nav-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+
+}
+
+.h1-back {
+    width: 120px;
+    display: flex;
+    align-self: flex-end;
+}
+
+.h1-next {
+
+    display: flex;
+    align-self: flex-start;
+
+}
+
+.nav-container a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.interressado {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 108px;
+    width: 1100px;
+
+}
+
+.interressado h2 {
+    height: 84px;
+    width: 366px;
+}
+
+.interressado p {
+    display: flex;
+
+    height: 84px;
+    min-width: 379px;
+    letter-spacing: -0.357143px;
+
+}
+
+.interressado a {
+
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

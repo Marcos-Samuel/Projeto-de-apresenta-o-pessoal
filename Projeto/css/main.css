@@ -1,0 +1,12 @@
+main {
+    max-width: 1110px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    flex-direction: column;
+    box-align: start;
+}

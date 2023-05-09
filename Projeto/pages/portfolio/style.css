@@ -1,0 +1,107 @@
+@import url(../../css/main.css);
+@import url(../../css/header.css);
+@import url(../../css/footer.css);
+@import url(../../css/styles.css);
+
+
+
+.title {
+    display: flex;
+
+    width: 350px;
+    height: 42px;
+
+    margin-bottom: 20px;
+}
+
+.sobre {
+    display: flex;
+
+    height: 120px;
+    width: 350px;
+}
+
+.button-link {
+    margin: 55px 0;
+
+    height: 48px;
+    width: 168px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    margin-top: 85px;
+}
+
+.portfolio-img {
+    width: 50%;
+    margin-right: 125px;
+    display: flex;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+
+    width: 555px;
+}
+
+.container-botton {
+    display: flex;
+    width: 100%;
+    margin-top: 85px;
+}
+
+.portfolio-img-2 {
+    width: 50%;
+    margin-left: 125px;
+
+}
+
+.container-botton-2 {
+    width: 555px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+
+}
+
+.interressado {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 108px;
+    width: 1110px;
+}
+
+.interressado h2 {
+    height: 84px;
+    width: 366px;
+
+}
+
+.interressado p {
+    display: flex;
+    height: 84px;
+    min-width: 379px;
+    letter-spacing: -0.357143px;
+}
+
+.interressado a {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,25 @@
+header {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1110px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+}
+
+.nav-header .nav-item-header {
+    /* padding-left: 25px; */
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    margin-left: 35px;
+
+
+}
