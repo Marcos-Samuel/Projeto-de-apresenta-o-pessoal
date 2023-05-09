@@ -1,11 +1,7 @@
 
 O objetivo deste exercício era replicar o website encontrado no figma [``Desafio front academy 1.fig``](https://www.figma.com/file/79R31SMg3mwnd9AWRa3nIF/Desafio-front-academy-md02?node-id=0%3A1&t=LPHOqT9G1QSvmHjY-1).
 
-## Páginas obrigatórias
-
-- [Home](#Home)
-
-## Páginas opcionais
+## Páginas
 
 - [Portfolio](#Portfolio)
 - [Portfolio - 01 - Manage](#Portfolio---01---Manage)
