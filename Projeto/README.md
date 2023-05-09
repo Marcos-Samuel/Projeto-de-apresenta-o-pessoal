@@ -1,6 +1,4 @@
 
-# Desafio | Front-end - Módulo 2
-
 O objetivo deste exercício era replicar o website encontrado no figma [``Desafio front academy 1.fig``](https://www.figma.com/file/79R31SMg3mwnd9AWRa3nIF/Desafio-front-academy-md02?node-id=0%3A1&t=LPHOqT9G1QSvmHjY-1).
 
 ## Páginas obrigatórias
@@ -126,5 +124,3 @@ Seções
 
 - Footer ![](https://i.imgur.com/P06m37L.png)
 
-
-###### tags: `front-end` `módulo 2` `HTML` `CSS` `desafio`
